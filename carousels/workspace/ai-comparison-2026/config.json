@@ -1,0 +1,93 @@
+{
+  "title": "ChatGPT vs Claude vs Gemini 2026",
+  "language": "zh",
+  "profile": {
+    "display_name": "NEXT MAVEN",
+    "handle": "@nextmaven.ai"
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "theme": "dark",
+      "label": "2026 AI 完整比較",
+      "text": "ChatGPT、Claude、Gemini\n*邊個*先係你2026年嘅最佳選擇？",
+      "subtitle": "三大AI全面比較 — 準確率、用途、價格一次睇清",
+      "image": "hero-comparison.png",
+      "image_layout": "inline"
+    },
+    {
+      "type": "body",
+      "theme": "light",
+      "label": "基本認識",
+      "title": "三大AI各有*強項*",
+      "text": "唔係邊個最強，而係邊個*最適合你*。",
+      "comparison": {
+        "old": {
+          "label": "舊思維",
+          "text": "揀最多人用嘅就得，反正都係差唔多"
+        },
+        "new": {
+          "label": "新思維",
+          "text": "唔同工作用唔同工具，效率可以差3倍"
+        }
+      }
+    },
+    {
+      "type": "body",
+      "theme": "dark",
+      "label": "CHATGPT",
+      "title": "創意、語音、生態系 *全部* 交俾佢",
+      "bullets": [
+        "DALL-E 圖像生成 *原生* 整合",
+        "Advanced Voice Mode 免費開放",
+        "插件生態最成熟，第三方整合最多",
+        "Deep Research 多來源深度搜尋"
+      ],
+      "image": "chatgpt-logo.png",
+      "image_layout": "inline"
+    },
+    {
+      "type": "body",
+      "theme": "light",
+      "label": "CLAUDE",
+      "title": "Coding、寫作、長文件 *準確度最高*",
+      "bullets": [
+        "幻覺率只有 *~3%*，三者中最低",
+        "200K token 超長文脈，分析長報告無壓力",
+        "Claude Code 直接喺終端機編程",
+        "企業採用率急升，SAP、AWS 深度合作"
+      ],
+      "image": "claude-logo.png",
+      "image_layout": "inline"
+    },
+    {
+      "type": "body",
+      "theme": "dark",
+      "label": "GEMINI",
+      "title": "Google 生態 + 實時搜尋 *無可取代*",
+      "bullets": [
+        "原生接入 Google Search，資料*最新*最準",
+        "Gmail、Docs、Sheets 深度整合",
+        "Gemini Intelligence — Android 全系統 AI 層",
+        "Chrome 瀏覽器實時總結網頁"
+      ],
+      "image": "gemini-logo.png",
+      "image_layout": "inline"
+    },
+    {
+      "type": "body",
+      "theme": "light",
+      "label": "點揀先啱",
+      "title": "根據你嘅*需求*揀工具",
+      "text": "唔同場景有唔同最佳選擇：",
+      "image": "decision-guide.png",
+      "image_layout": "inline"
+    },
+    {
+      "type": "cta",
+      "theme": "dark",
+      "text": "追蹤我哋，每週 AI 工具評測同實戰技巧送上嚟",
+      "button_text": "Follow @nextmaven.ai"
+    }
+  ]
+}
