@@ -10,8 +10,8 @@
       "type": "hook",
       "theme": "dark",
       "label": "2026 AI 完整比較",
-      "text": "ChatGPT、Claude、Gemini\n*邊個*先係你2026年嘅最佳選擇？",
-      "subtitle": "三大AI全面比較 — 準確率、用途、價格一次睇清",
+      "text": "三大AI *邊個*\n係你2026年最佳選擇？",
+      "subtitle": "ChatGPT · Claude · Gemini — 準確率、用途、價格一次睇清",
       "image": "hero-comparison.png",
       "image_layout": "inline"
     },
